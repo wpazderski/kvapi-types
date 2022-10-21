@@ -1,2 +1,2 @@
 # kvapi-types
-Common types for kvapi and kvapi-client
+Common types for [kvapi-server](https://github.com/wpazderski/kvapi-server) and [kvapi-client](https://github.com/wpazderski/kvapi-client)
